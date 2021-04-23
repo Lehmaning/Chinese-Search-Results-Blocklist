@@ -9,12 +9,16 @@ anxinapk.com
 app.qq.com
 appchina.com
 baijiahao.baidu.com
+bannedbook.net
+bannedbook.org
 cehca.com
 cr173.com
 ddooo.com
 demandmedia.co.nz
+dongtaiwang.com
 downyi.com
 duote.com
+epochtimes.com
 gmz88.com
 jzfhs.com
 kkx.net
@@ -34,6 +38,7 @@ sj.qq.com
 thenews.cc
 toutiao.com
 waig8.com
+wujieliulan.com
 xiazai.zol.com.cn
 xixiwg.com
 xlhs.com
