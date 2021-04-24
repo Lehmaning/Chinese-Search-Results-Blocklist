@@ -1,6 +1,5 @@
-scripts
-.gitignore
-origin.txt
-merge.sh
-*.swp
 *.swo
+*.swp
+merge.sh
+origin.txt
+scripts
