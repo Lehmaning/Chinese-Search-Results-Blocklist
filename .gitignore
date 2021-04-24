@@ -1,3 +1,6 @@
+scripts
+.gitignore
+origin.txt
 merge.sh
 *.swp
 *.swo
