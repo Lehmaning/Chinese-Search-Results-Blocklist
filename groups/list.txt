@@ -1,7 +1,4 @@
-7k7k.com/content
-s.weibo.com
-jd.com/chapin/
-taobao.com/list/
-z.sogou.com
-search.bilibili.com
 moe.gov.cn
+s.weibo.com
+search.bilibili.com
+z.sogou.com
