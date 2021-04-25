@@ -28,10 +28,12 @@
 - [down.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/groups/down.txt) 长期下线网站的域名。
 - [list.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/groups/list.txt) （京东、搜狗、Bilibili等）网站站内搜索结果列表的域名。
 - [mirror.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/groups/mirror.txt) 镜像钓鱼网站的域名。
+- [novel.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/groups/novel.txt) 网文小说站的域名。
 - [political.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/groups/political.txt) 轮子等政治敏感网站的域名。
 
 ----
-##列表来源
+
+## 列表来源
 以下是 [omni.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/omni.txt) 和 [ulist.txt](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/ulist.txt) 中域名的来源：
 - https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 - https://zh.wikipedia.org/zh-hans/%E5%85%A7%E5%AE%B9%E8%BE%B2%E5%A0%B4
