@@ -1,11 +1,14 @@
 aliyun.com/activity
 aliyun.com/sswd
-blog.csdn.net/weixin_30328003
-blog.csdn.net/weixin_39923137
-blog.csdn.net/weixin_39992831
 cloud.tencent.com/developer/information
+csdn.net/MOY37RQW1JarN33BgZk
+csdn.net/weixin_30328003
+csdn.net/weixin_36413157
+csdn.net/weixin_39923137
+csdn.net/weixin_39992831
 facebook.com/GirlsSaveHK
 facebook.com/HKbadguys
+facebook.com/gigacircle
 facebook.com/groups/hkon9agroup
 facebook.com/hklaughpic
 facebook.com/hkon9a
@@ -15,6 +18,8 @@ facebook.com/rojaklah88
 facebook.com/viralcham
 facebook.com/viralchamtv
 facebook.com/worldofbuzz
+github.com/5fan/88
+github.com/cirosantilli
 huaweicloud.com/articles/topic
 huaweicloud.com/theme
 huxiu.com/so

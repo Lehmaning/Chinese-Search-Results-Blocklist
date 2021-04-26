@@ -29,6 +29,7 @@ mobile.baidu.com
 mobile.com.cn
 moe.gov.cn
 onlinedown.net
+pinterest.com
 playes.net
 pp.cn
 pronvpn.net

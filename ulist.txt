@@ -66,6 +66,7 @@
 *//:*.1mpi.com/*
 *//:*.1pyy.com/*
 *//:*.1r1g.com/*
+*//:*.1st-paydayloans.com/*
 *//:*.1wfd.com/*
 *//:*.20122011.org/*
 *//:*.209353.com/*
@@ -103,6 +104,7 @@
 *//:*.392623.com/*
 *//:*.3jwz.com/*
 *//:*.3li.cc/*
+*//:*.3rxing.org/*
 *//:*.3ssq8z.bmspzs.pw/*
 *//:*.3v4.net/*
 *//:*.400839.com/*
@@ -118,6 +120,7 @@
 *//:*.50608.com/*
 *//:*.507q96.cn/*
 *//:*.50998f.com/*
+*//:*.51.ca/*
 *//:*.5199111.com/*
 *//:*.51bbo.com/*
 *//:*.51dongshi.com/*
@@ -144,6 +147,7 @@
 *//:*.5998800.com/*
 *//:*.5azy.com/*
 *//:*.5eso.com/*
+*//:*.5gati1.xyz/*
 *//:*.5ibook.net/*
 *//:*.5k33i.cn/*
 *//:*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
@@ -348,9 +352,7 @@
 *//:*.bjhongxiangyuyu.com/*
 *//:*.bjqcjh.com/*
 *//:*.bkcmt.com/*
-*//:*.blog.csdn.net/weixin_30328003/*
-*//:*.blog.csdn.net/weixin_39923137/*
-*//:*.blog.csdn.net/weixin_39992831/*
+*//:*.blcd.com.cn/*
 *//:*.blog.jiecaoba.cn/*
 *//:*.blog.xuite.net/*
 *//:*.bluefly.com.tw/*
@@ -437,6 +439,7 @@
 *//:*.ciawe.com/*
 *//:*.cihangyuan.com/*
 *//:*.circle01.life/*
+*//:*.cirosantilli.com/*
 *//:*.city1.cn/*
 *//:*.cjsoso.com/*
 *//:*.cklive.net/*
@@ -447,6 +450,7 @@
 *//:*.cmoney.tw/*
 *//:*.cnba.live/*
 *//:*.cnfm.org.cn/*
+*//:*.cnintelladybag.cn/*
 *//:*.cnto411.com/*
 *//:*.coco01.cc/*
 *//:*.coco01.me/*
@@ -485,6 +489,11 @@
 *//:*.cqxhfgz.com/*
 *//:*.cr173.com/*
 *//:*.cscec7bjt.com/*
+*//:*.csdn.net/MOY37RQW1JarN33BgZk/*
+*//:*.csdn.net/weixin_30328003/*
+*//:*.csdn.net/weixin_36413157/*
+*//:*.csdn.net/weixin_39923137/*
+*//:*.csdn.net/weixin_39992831/*
 *//:*.ctcea.org/*
 *//:*.custompatches4u.com/*
 *//:*.cxjygj.com/*
@@ -522,6 +531,7 @@
 *//:*.dgso.cn/*
 *//:*.dgth88.com/*
 *//:*.dgweiliangboli.com/*
+*//:*.dhhjm.cn/*
 *//:*.diaochezulingongsi.com/*
 *//:*.diaosizhainan.com/*
 *//:*.differentsplit.com/*
@@ -530,6 +540,7 @@
 *//:*.djyz007.com/*
 *//:*.dl.pconline.com.cn/*
 *//:*.dlocp.com.cn/*
+*//:*.dlohcp.com.cn/*
 *//:*.doczj.com/*
 *//:*.dokterandalan.com/*
 *//:*.donglian640.com/*
@@ -559,6 +570,7 @@
 *//:*.eeeduuu.com/*
 *//:*.efreedom.com/*
 *//:*.efwm.qswrj.download/*
+*//:*.eheima.com/*
 *//:*.ehow.com/*
 *//:*.ek162.com/*
 *//:*.ekyah.link/*
@@ -590,6 +602,7 @@
 *//:*.f2qu.com/*
 *//:*.facebook.com/GirlsSaveHK/*
 *//:*.facebook.com/HKbadguys/*
+*//:*.facebook.com/gigacircle/*
 *//:*.facebook.com/groups/hkon9agroup/*
 *//:*.facebook.com/hklaughpic/*
 *//:*.facebook.com/hkon9a/*
@@ -668,6 +681,8 @@
 *//:*.ghosttrainbuilder.com/*
 *//:*.gigacircle.com/*
 *//:*.gionee.com/*
+*//:*.github.com/5fan/88/*
+*//:*.github.com/cirosantilli/*
 *//:*.gjfs.com.cn/*
 *//:*.gjoyz.com/*
 *//:*.gkgjws.com/*
@@ -728,6 +743,7 @@
 *//:*.helium.com/*
 *//:*.help315.com.cn/*
 *//:*.helplib.com/*
+*//:*.hemiaofund.com/*
 *//:*.henankuai328.bid/*
 *//:*.hgfzf.cn/*
 *//:*.hgmfy.cn/*
@@ -813,6 +829,7 @@
 *//:*.it-swarm.dev/*
 *//:*.it1352.com/*
 *//:*.itdaan.com/*
+*//:*.itpub.netm/*
 *//:*.itranslater.com/*
 *//:*.itread01.com/*
 *//:*.itw01.comg/*
@@ -994,6 +1011,7 @@
 *//:*.metrolyrics.com/*
 *//:*.mi6fx.com/*
 *//:*.mianfeiwendang.com/*
+*//:*.mibhouse.com/*
 *//:*.middermacon18.com/*
 *//:*.migufun.com/*
 *//:*.minghui.org/*
@@ -1047,6 +1065,7 @@
 *//:*.newchuban.com/*
 *//:*.newqiqi.com/*
 *//:*.news.gamme.com.tw/*
+*//:*.news.kpitcummins.net.cn/*
 *//:*.news.yszx2a.com/*
 *//:*.news8.com/*
 *//:*.newtoday.cc/*
@@ -1118,6 +1137,7 @@
 *//:*.pianshen.com/*
 *//:*.pigfun.cn/*
 *//:*.pigpipi.cn/*
+*//:*.pinterest.com/*
 *//:*.pinxia.cc/*
 *//:*.pitalitobicentenario.com/*
 *//:*.pixnet.net/*
@@ -1143,6 +1163,7 @@
 *//:*.ptt01.tv/*
 *//:*.pttbook.com/*
 *//:*.ptttube.com/*
+*//:*.ptw76.com/*
 *//:*.puataiwan.com/*
 *//:*.push01.com/*
 *//:*.python5.com/*
@@ -1246,10 +1267,10 @@
 *//:*.search.discuz.qq.com/*
 *//:*.sebastianyepesdesign.com/*
 *//:*.secn.net/*
-*//:*.seed.com/*
 *//:*.seedsbuddy.com/*
 *//:*.seemk.com/*
 *//:*.seeys.com/*
+*//:*.senrx.com/*
 *//:*.sh-jieao.com/*
 *//:*.shangdixinxi.com/*
 *//:*.shantiyogatupelo.com/*
@@ -1444,6 +1465,7 @@
 *//:*.twitter.com/lvv2com/*
 *//:*.twitter.com/rojakla/*
 *//:*.twitter.com/worldofbuzz/*
+*//:*.twoeggez.com/*
 *//:*.twtravelwiki.com/*
 *//:*.twypage.com/*
 *//:*.txjingyi.com/*
@@ -1522,6 +1544,7 @@
 *//:*.weixingon.com/*
 *//:*.wemp.app/*
 *//:*.wenku1.com/*
+*//:*.wenku321.com/*
 *//:*.wenshanok.com/*
 *//:*.wenshuw.com/*
 *//:*.wenzhangba.com/*
@@ -1531,7 +1554,6 @@
 *//:*.whyhow.online/*
 *//:*.whysw88.com/*
 *//:*.wienfm.com/*
-*//:*.wikihow.com/*
 *//:*.wikioi.com/*
 *//:*.windrimbuilding.com/*
 *//:*.winrayland.com/*
@@ -1700,6 +1722,7 @@
 *//:*.zjqlct.com/*
 *//:*.zmjayouzan.com/*
 *//:*.zmtests.com/*
+*//:*.znzmo.co/*
 *//:*.zodiacthefest.com/*
 *//:*.zpcsg.cn/*
 *//:*.zrzwpa.com/*

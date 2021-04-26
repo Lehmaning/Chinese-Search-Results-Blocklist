@@ -1,4 +1,5 @@
-moe.gov.cn
-s.weibo.com
-search.bilibili.com
 z.sogou.com
+s.weibo.com
+pinterest.com
+search.bilibili.com
+moe.gov.cn
