@@ -422,7 +422,7 @@
 *//:*.check4herpes.com/*
 *//:*.checked.news/*
 *//:*.chengzi1058.com/*
-*//:*.chezaiyi.cn//*
+*//:*.chezaiyi.cn/*
 *//:*.chihome.com.tw/*
 *//:*.chihovet.com.tw/*
 *//:*.china-jianzhu.com/*
@@ -1090,7 +1090,6 @@
 *//:*.nxtoten.com/*
 *//:*.o2onlyone.net/*
 *//:*.obnseo.com/*
-*//:*.odf-ts.com/directory/*
 *//:*.odkeji.com/*
 *//:*.offblastsoftworks.com/*
 *//:*.ohoneyjade.com/*
@@ -1153,7 +1152,7 @@
 *//:*.presslocalhk.com/*
 *//:*.pressyourmum.com/*
 *//:*.products212.com/*
-*//:*.programmer.help//*
+*//:*.programmer.help/*
 *//:*.projectservers.net/*
 *//:*.projobs.tistory.com/*
 *//:*.pronvpn.net/*
