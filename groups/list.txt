@@ -1,5 +1,11 @@
+item.jd.com
+shop.suning.com
+pic.sogou.com
 z.sogou.com
+kiaic.com
+xqndy.com
 s.weibo.com
 pinterest.com
+pinterest.jp
 search.bilibili.com
 moe.gov.cn
