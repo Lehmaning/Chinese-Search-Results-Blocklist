@@ -298,6 +298,7 @@
 *://*.androidcookie.com/*
 *://*.angiefans.com/*
 *://*.anhuilife.com/*
+*://*.anitaclubfontana.com/*
 *://*.anitadreamhotel.com/*
 *://*.anlon.com.tw/*
 *://*.anotherhearttofeed.com/*
@@ -321,6 +322,7 @@
 *://*.aptoide.comm/*
 *://*.aptvgo.com/*
 *://*.aquatecnia1.com/*
+*://*.araco-group.net/*
 *://*.archtek.com.tw/*
 *://*.artez.org.cn/*
 *://*.articlesbase.com/*
@@ -377,9 +379,11 @@
 *://*.becreativeblog.com/*
 *://*.beftcm.com/*
 *://*.bellevuewatourism.com/*
+*://*.benkibelaku.com/*
 *://*.beqve.cn/*
 *://*.beringintour.com/*
 *://*.bestpdm.com/*
+*://*.bfea.com.tw/*
 *://*.bg8399.com/*
 *://*.biabu.com.cn/*
 *://*.big-tits-and-round-asses.com/*
@@ -542,11 +546,13 @@
 *://*.cqsscai3188.com/*
 *://*.cqxhfgz.com/*
 *://*.cr173.com/*
+*://*.cravemelttap.com/*
 *://*.cronystream.com/*
 *://*.cscec7bjt.com/*
 *://*.csdn.net/MOY37RQW1JarN33BgZk/*
 *://*.csdn.net/weixin_26851157/*
 *://*.csdn.net/weixin_30328003/*
+*://*.csdn.net/weixin_34375251/*
 *://*.csdn.net/weixin_36413157/*
 *://*.csdn.net/weixin_39923137/*
 *://*.csdn.net/weixin_39992831/*
@@ -574,6 +580,7 @@
 *://*.datesol.xyz/*
 *://*.datetrue.xyz/*
 *://*.daxuesou.com/*
+*://*.dazhuanlan.com/*
 *://*.dc120.com.cn/*
 *://*.ddhyl.cn/*
 *://*.ddoca.com/*
@@ -600,6 +607,7 @@
 *://*.digitalsolute.com/*
 *://*.dingfu68.com/*
 *://*.dingjisc.com/*
+*://*.disabilitydontmeancant.com/*
 *://*.djyz007.com/*
 *://*.dl.pconline.com.cn/*
 *://*.dlocp.com.cn/*
@@ -730,6 +738,7 @@
 *://*.frong.net/*
 *://*.fsyingxin.com/*
 *://*.fsyvu.com/*
+*://*.funkyscience.net/*
 *://*.funssy.com/*
 *://*.furniturelowe.com/*
 *://*.fuwuqiceping.com/*
@@ -886,6 +895,7 @@
 *://*.hubpages.com/*
 *://*.huchezai.com/*
 *://*.huierweb.com/*
+*://*.human-right.net/*
 *://*.huo123.cc/*
 *://*.huodongxing.com/*
 *://*.huohuolife.com/*
@@ -1014,6 +1024,7 @@
 *://*.kanwatch.site/*
 *://*.kaoyu.org/*
 *://*.kathymorganvoice.com/*
+*://*.kayrodriques.com/*
 *://*.kbck.tzrui.top/*
 *://*.kendranormanbellamy.com/*
 *://*.kerrismn.com/*
@@ -1040,6 +1051,7 @@
 *://*.kxxzz.com/*
 *://*.l3x3.cn/*
 *://*.ladresse-auxerre-cpaimmo.com/*
+*://*.lake.tw/*
 *://*.lam777.com/*
 *://*.lamigoclub.com.tw/*
 *://*.landiannews.com/*
@@ -1160,6 +1172,7 @@
 *://*.moe.gov.cn/*
 *://*.mojim.com/*
 *://*.moktime.com/*
+*://*.montecarlovodka.net/*
 *://*.montepozuelo.com/*
 *://*.moptt.tw/*
 *://*.mosuo.com.cn/*
@@ -1240,6 +1253,7 @@
 *://*.oliobonamini.com/*
 *://*.omniwise.com.tw/*
 *://*.on9news.com/*
+*://*.onefleweast.net/*
 *://*.oneho.cn/*
 *://*.onetooninteractive.com/*
 *://*.onlinedown.net/*
@@ -1601,6 +1615,7 @@
 *://*.thelatinoartproject.com/*
 *://*.thelittlestrawberryfarm.com/*
 *://*.themortgagebeyondnetwork.com/*
+*://*.theofficialdennii.com/*
 *://*.theupsstoredc.net/*
 *://*.thinbug.com/*
 *://*.tianman602.com/*
@@ -1631,6 +1646,7 @@
 *://*.tpiorg.com/*
 *://*.tpofy.com/*
 *://*.tpst.com.cn/*
+*://*.travelwithunionpay.com/*
 *://*.trendsshop.cn/*
 *://*.triboulet.it/*
 *://*.trust1688.com/*
