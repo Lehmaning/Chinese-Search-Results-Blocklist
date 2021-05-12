@@ -1,4 +1,9 @@
-163.com
+sohu.com
+www.163.com
+wenku.baidu.com
+wk.baidu.com
+zhidao.baidu.com
+baike.baidu.com
 360baike.com
 360shoujizhushou.net
 360weishi.net
