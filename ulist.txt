@@ -54,7 +54,6 @@
 *://*.1587555.com/*
 *://*.15meili.com/*
 *://*.161633.com/*
-*://*.163.com/*
 *://*.163081.com/*
 *://*.1666yl.com/*
 *://*.16757.com/*
@@ -1539,7 +1538,6 @@
 *://*.so.znqnet.com/*
 *://*.soba123.com/*
 *://*.sodocs.net/*
-*://*.sohu.com/*
 *://*.soinside.com/*
 *://*.sokuer.com/*
 *://*.sokutu.com/*
