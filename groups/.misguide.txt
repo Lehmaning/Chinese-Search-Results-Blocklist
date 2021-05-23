@@ -7,6 +7,7 @@ baike.sogou.com
 bannedbook.net
 bannedbook.org
 blog.csdn.net
+cloud.tencent.com
 cutestat.com
 dongtaiwang.com
 epochtimes.com
@@ -14,6 +15,7 @@ epochtimes.sg
 gengbaike.cn
 gnews.org
 gtv.org
+huaweicloud.com
 hudong.com
 jikipedia.com
 minghui.org
@@ -21,4 +23,5 @@ wenku.baidu.com
 wujieliulan.com
 xiaojicidian.com
 xuexi.cn
+yisu.com
 zhidao.baidu.com
