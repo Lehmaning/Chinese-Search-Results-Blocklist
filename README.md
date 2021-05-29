@@ -13,7 +13,7 @@
 
 **2. uBlacklist**
 （插件地址：[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublacklist/) [Chrome](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)）
- - 普通列表：复制[此链接](https://raw.githubusercontent.com/    Lehmaning/Search-Results-Blocklist/master/ublack.txt)，添加到 Subscription 中。
+ - 普通列表：复制[此链接](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/ublack.txt)，添加到 Subscription 中。
  - 附加列表：复制[此链接](https://raw.githubusercontent.com/Lehmaning/Search-Results-Blocklist/master/ulist.txt)，添加到 Subscription 中。
 
 **3. AC-baidu**
